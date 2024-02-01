@@ -1,6 +1,10 @@
 #Elijah Gonzalez
 #Purpose: Excercises
 #Variable Dictionary:
+    #seconds = var for seconds in a minute
+    #minutes = var for minutes in an hour
+    #seconds_per_hour = how many seconds are in an hour
+    #seconds_per_day = how many seconds are in a day
 
     
 #3.1
